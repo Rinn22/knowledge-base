@@ -1,14 +1,14 @@
-# Magento Support Knowledge Base
+# _Magento Support Knowledge Base_
 This repository contains the markdown source of articles, published in [Magento Support Knowledge Base](https://support.magento.com/hc/en-us).
 
-## Goals
+## _Goals_
 
-Our goal is to provide the Magento community with comprehensive and quality documentation on resolving Magento issues, Magento best practices, and sharing answers to questions our Support team typically gets. We believe to accomplish that goal, we need experts from the community to share their knowledge with us and each other. We are thankful to all of our contributors for improving Magento Support documentation.
+### Our goal is to provide the Magento community with comprehensive and quality documentation on resolving Magento issues, Magento best practices, and sharing answers to questions our Support team typically gets. We believe to accomplish that goal, we need experts from the community to share their knowledge with us and each other. We are thankful to all of our contributors for improving Magento Support documentation.
 
-We don't officially take contributions until the end of May (the exact date will be determined later). Once we are ready to take contributions, we will provide submission steps and explain how many points you could gain by contributing.
+### We don't officially take contributions until the end of May (the exact date will be determined later). Once we are ready to take contributions, we will provide submission steps and explain how many points you could gain by contributing.
 
-Please do not contribute until official notice in social media or email.
-You can check for the announcement that this repo has become public at:
+### Please do not contribute until official notice in social media or email.
+## _You can check for the announcement that this repo has become public at:_
 
 * [Adobe Commerce Facebook](https://www.facebook.com/adobecommerce)
 * [Adobe Commerce Twitter](https://twitter.com/AdobeCommerce/)
