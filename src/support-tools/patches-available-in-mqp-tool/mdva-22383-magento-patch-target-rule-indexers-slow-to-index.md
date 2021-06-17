@@ -1,5 +1,5 @@
 ---
-title: MDVA-22383 Magento patch: target rule indexers slow to index
+title: "MDVA-22383: target rule indexers slow to index"
 labels: 2.3.0,2.3.1,2.3.2,2.3.2-p2,2.3.3,2.3.3-p1,MQP 1.0.20,Magento Commerce,Magento Commerce Cloud,Magento Quality Patches,index,product save,support tools,target rule
 ---
 
